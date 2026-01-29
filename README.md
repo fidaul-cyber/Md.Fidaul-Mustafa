@@ -1,58 +1,72 @@
-# 👋 Hi, I'm Md Fidaul Mustafa
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=00FFAA&center=true&vCenter=true&width=600&lines=Cybersecurity+Learner;Ethical+Hacking+Student;Learning+Defense+Before+Offense;Securing+Systems+One+Step+at+a+Time" />
+</p>
 
-🎓 Student | 🔐 Cybersecurity Learner | 💻 Tech Enthusiast  
-🧠 Passionate about ethical hacking, system security, and secure development
+<h1 align="center">👋 Hi, I'm Md Fidaul Mustafa</h1>
 
----
-
-## 🛡️ About Me
-- Learning **Cybersecurity & Ethical Hacking**
-- Interested in **Web Security, Networking & Linux**
-- Exploring vulnerabilities responsibly
-- Believe in *learning by practice, not shortcuts*
-
----
-
-## 🧰 Skills & Tools
-- 🌐 HTML, CSS, JavaScript (Basics)
-- 🐍 Python (Automation, Scripts)
-- 🐧 Linux (Terminal, File System)
-- 🌍 Networking Fundamentals
-- 🔐 Cybersecurity Basics
-  - OWASP Top 10 (Learning)
-  - Bug Hunting (Beginner)
-  - Web App Security
+<p align="center">
+🔐 Cybersecurity Learner | 🎓 Student | 💻 Tech Explorer  
+<br>
+🛡️ Focused on Ethical Hacking, Web Security & System Defense
+</p>
 
 ---
 
-## 📚 Currently Learning
-- Ethical Hacking (Beginner → Advanced)
-- Web Application Security
-- Linux for Security
-- Networking for Hackers
-- Bug Bounty Methodology
+## 🧠 Who Am I?
+- A **curious learner** stepping into the world of cybersecurity  
+- Learning how systems break — **to understand how to protect them**
+- Believe in **legal, ethical & responsible security practice**
+- Building skills slowly, deeply, and correctly
 
 ---
 
-## 🧪 Practice & Labs
-- Hands-on practice with:
-  - Vulnerable web applications
-  - Local testing environments
-  - Capture The Flag (CTF) style learning
+## 🛠️ Skills & Knowledge (Growing Daily)
+### 💻 Technical
+- HTML, CSS, JavaScript (Basics)
+- Python (Automation, Scripts)
+- Linux (Terminal, Permissions, Filesystem)
+- Git & GitHub
+
+### 🔐 Cybersecurity
+- Networking Fundamentals
+- OWASP Top 10 (Learning)
+- Web Application Security (Beginner)
+- Bug Bounty Methodology (Beginner)
+- CTF-style practice (Learning phase)
 
 ---
 
-## 📌 Goals
-- Become a **skilled & ethical cybersecurity professional**
-- Contribute to **open-source security tools**
-- Learn deeply, step by step
+## 🧪 Hands-On Practice
+- Local lab testing (safe & legal)
+- Vulnerable web apps (practice purpose)
+- Security notes & documentation
+- Script-based learning (Python + Bash)
 
 ---
 
-## 📫 Connect With Me
-- 📧 Email: mustafafidaul15@gmail.com
-- 🌐 GitHub: #
+## 🎯 Current Goals
+- Build **strong fundamentals** in cybersecurity
+- Create **clean, well-documented security repos**
+- Move from **learner → practitioner → professional**
+- Contribute to **open-source security projects**
 
 ---
 
-⭐ *Cybersecurity is not about breaking systems, it's about protecting them.*
+## 📂 What You'll Find Here
+- 📘 Cybersecurity learning notes
+- 🧪 Practice labs & scripts
+- 🐧 Linux & networking experiments
+- 🚀 Beginner-friendly security projects
+
+---
+
+## 📫 Connect
+- 🌐 GitHub: https://github.com/fidaul-cyber
+- 📧 Email: yourmail@gmail.com
+
+---
+
+<p align="center">
+<strong>“Security is not about hacking systems,  
+it's about understanding them deeply.”</strong>
+</p>

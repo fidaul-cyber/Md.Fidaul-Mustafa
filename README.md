@@ -62,7 +62,7 @@
 
 ## 📫 Connect
 - 🌐 GitHub: https://github.com/fidaul-cyber
-- 📧 Email: yourmail@gmail.com
+- 📧 Email: mutafafidaul15@gmail.com
 
 ---
 
